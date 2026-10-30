@@ -1,0 +1,156 @@
+expense_id,emp_id,category,vendor,amount_inr,receipt_attached
+EXP0001,E004,Lodging,Amazon Business,2312,Y
+EXP0002,E001,Client Entertainment,Taj Hotels,12097,Y
+EXP0003,E001,Travel,Zomato,20666,Y
+EXP0004,E006,Software,Microsoft,1213,Y
+EXP0005,E006,Client Entertainment,Swiggy,1829,Y
+EXP0006,E007,Client Entertainment,Ola,9600,Y
+EXP0007,E011,Travel,Swiggy,15199,Y
+EXP0008,E017,Lodging,Marriott,7453,Y
+EXP0009,E015,Client Entertainment,Ola,15013,Y
+EXP0010,E016,Client Entertainment,Amazon Business,12885,Y
+EXP0011,E005,Meals,Ola,2371,Y
+EXP0012,E011,Meals,Swiggy,2915,Y
+EXP0013,E009,Travel,Amazon Business,18095,Y
+EXP0014,E010,Client Entertainment,Ola,4229,Y
+EXP0015,E018,Travel,IndiGo,6351,Y
+EXP0016,E009,Client Entertainment,Marriott,1876,Y
+EXP0017,E007,Travel,Uber,10324,N
+EXP0018,E017,Meals,IndiGo,935,Y
+EXP0019,E016,Lodging,Ola,6345,Y
+EXP0020,E014,Lodging,Starbucks,4884,N
+EXP0021,E003,Travel,Zomato,3399,Y
+EXP0022,E011,Software,Microsoft,12210,Y
+EXP0023,E003,Software,Amazon Business,5645,Y
+EXP0024,E015,Software,Uber,8513,N
+EXP0025,E005,Client Entertainment,IndiGo,5727,Y
+EXP0026,E004,Travel,Starbucks,14490,Y
+EXP0027,E011,Travel,IndiGo,27707,Y
+EXP0028,E005,Travel,Marriott,13161,Y
+EXP0029,E011,Travel,Amazon Business,16146,Y
+EXP0030,E016,Lodging,Starbucks,7877,Y
+EXP0031,E003,Travel,IndiGo,10957,Y
+EXP0032,E005,Client Entertainment,Zomato,19395,Y
+EXP0033,E003,Lodging,Starbucks,3788,Y
+EXP0034,E010,Software,Uber,9768,Y
+EXP0035,E012,Software,Uber,6691,Y
+EXP0036,E012,Client Entertainment,Ola,7921,Y
+EXP0037,E012,Software,Zomato,3404,N
+EXP0038,E012,Lodging,Marriott,11067,Y
+EXP0039,E002,Lodging,Starbucks,11068,Y
+EXP0040,E005,Client Entertainment,Marriott,13322,Y
+EXP0041,E005,Client Entertainment,Zomato,12948,Y
+EXP0042,E016,Travel,Marriott,28113,Y
+EXP0043,E010,Travel,Uber,22039,Y
+EXP0044,E017,Travel,Ola,5896,Y
+EXP0045,E010,Software,Starbucks,2613,Y
+EXP0046,E020,Travel,Uber,7082,Y
+EXP0047,E015,Lodging,Zomato,8047,Y
+EXP0048,E011,Software,Amazon Business,1872,Y
+EXP0049,E005,Lodging,Taj Hotels,2825,Y
+EXP0050,E001,Client Entertainment,Taj Hotels,6644,Y
+EXP0051,E015,Travel,Starbucks,24903,Y
+EXP0052,E004,Travel,Swiggy,26172,Y
+EXP0053,E003,Travel,Marriott,2933,Y
+EXP0054,E006,Software,Starbucks,6015,Y
+EXP0055,E007,Lodging,Zomato,3507,Y
+EXP0056,E020,Software,Starbucks,6366,N
+EXP0057,E011,Lodging,Taj Hotels,10642,Y
+EXP0058,E016,Meals,Taj Hotels,2002,Y
+EXP0059,E013,Client Entertainment,Taj Hotels,6082,Y
+EXP0060,E001,Travel,Microsoft,17180,Y
+EXP0061,E018,Lodging,Uber,8370,Y
+EXP0062,E009,Software,Microsoft,9418,Y
+EXP0063,E017,Software,Microsoft,2993,Y
+EXP0064,E017,Software,Ola,816,Y
+EXP0065,E006,Client Entertainment,Amazon Business,2216,Y
+EXP0066,E002,Lodging,Starbucks,3755,Y
+EXP0067,E015,Travel,Microsoft,21533,Y
+EXP0068,E011,Meals,Taj Hotels,261,Y
+EXP0069,E003,Software,Amazon Business,9655,Y
+EXP0070,E005,Lodging,Marriott,6606,Y
+EXP0071,E015,Client Entertainment,IndiGo,14964,Y
+EXP0072,E010,Lodging,IndiGo,10207,Y
+EXP0073,E004,Travel,Zomato,7171,Y
+EXP0074,E002,Travel,Microsoft,13649,Y
+EXP0075,E014,Lodging,Starbucks,8088,Y
+EXP0076,E005,Lodging,Microsoft,4497,Y
+EXP0077,E015,Travel,Microsoft,29121,N
+EXP0078,E001,Meals,Amazon Business,615,Y
+EXP0079,E005,Client Entertainment,Swiggy,13789,Y
+EXP0080,E003,Client Entertainment,Uber,6663,Y
+EXP0081,E006,Software,Ola,9499,N
+EXP0082,E020,Meals,Taj Hotels,1490,Y
+EXP0083,E012,Meals,Amazon Business,936,Y
+EXP0084,E019,Software,Swiggy,6209,Y
+EXP0085,E001,Travel,Amazon Business,11649,Y
+EXP0086,E005,Software,Ola,13075,Y
+EXP0087,E019,Meals,Zomato,2920,Y
+EXP0088,E007,Meals,Zomato,2571,Y
+EXP0089,E017,Client Entertainment,Swiggy,7632,Y
+EXP0090,E006,Meals,Swiggy,760,Y
+EXP0091,E007,Meals,Zomato,651,Y
+EXP0092,E019,Software,Microsoft,8644,Y
+EXP0093,E006,Lodging,Starbucks,3276,Y
+EXP0094,E010,Meals,Uber,2823,N
+EXP0095,E001,Travel,Ola,5586,Y
+EXP0096,E007,Meals,Uber,2676,Y
+EXP0097,E016,Lodging,Swiggy,5371,Y
+EXP0098,E012,Lodging,Taj Hotels,2062,N
+EXP0099,E009,Lodging,IndiGo,6817,Y
+EXP0100,E020,Software,Starbucks,5621,Y
+EXP0101,E012,Meals,Swiggy,2700,Y
+EXP0102,E009,Lodging,Ola,4938,Y
+EXP0103,E018,Lodging,IndiGo,8900,Y
+EXP0104,E005,Travel,Zomato,25558,Y
+EXP0105,E006,Software,Amazon Business,1907,Y
+EXP0106,E014,Travel,Uber,20320,Y
+EXP0107,E007,Meals,Marriott,2235,Y
+EXP0108,E020,Meals,Zomato,554,Y
+EXP0109,E019,Software,IndiGo,6956,N
+EXP0110,E011,Meals,Ola,477,Y
+EXP0111,E011,Lodging,Uber,10068,N
+EXP0112,E020,Software,Taj Hotels,6346,Y
+EXP0113,E001,Meals,Taj Hotels,953,Y
+EXP0114,E006,Lodging,Microsoft,6998,Y
+EXP0115,E009,Client Entertainment,Starbucks,10959,Y
+EXP0116,E019,Software,IndiGo,8404,Y
+EXP0117,E009,Client Entertainment,Marriott,12165,N
+EXP0118,E016,Client Entertainment,Ola,10455,Y
+EXP0119,E014,Client Entertainment,Uber,7153,Y
+EXP0120,E019,Lodging,Starbucks,6400,Y
+EXP0121,E013,Client Entertainment,Zomato,17355,N
+EXP0122,E017,Client Entertainment,Swiggy,4007,Y
+EXP0123,E001,Client Entertainment,IndiGo,4235,Y
+EXP0124,E009,Travel,Marriott,4774,Y
+EXP0125,E001,Client Entertainment,Taj Hotels,3792,Y
+EXP0126,E016,Meals,Marriott,1329,Y
+EXP0127,E003,Meals,Swiggy,1100,Y
+EXP0128,E010,Meals,Swiggy,1249,Y
+EXP0129,E012,Lodging,IndiGo,3240,N
+EXP0130,E006,Software,Starbucks,9628,Y
+EXP0131,E018,Travel,Zomato,28858,Y
+EXP0132,E007,Lodging,Ola,10195,Y
+EXP0133,E003,Lodging,Taj Hotels,4527,Y
+EXP0134,E006,Meals,Microsoft,2062,Y
+EXP0135,E015,Meals,Zomato,1409,Y
+EXP0136,E017,Client Entertainment,Swiggy,10202,Y
+EXP0137,E007,Meals,Taj Hotels,951,Y
+EXP0138,E014,Travel,Taj Hotels,5864,Y
+EXP0139,E003,Lodging,Marriott,7176,Y
+EXP0140,E018,Meals,Ola,564,Y
+EXP0141,E020,Travel,Zomato,19828,Y
+EXP0142,E009,Travel,Amazon Business,6775,Y
+EXP0143,E004,Lodging,Taj Hotels,11596,Y
+EXP0144,E004,Meals,Amazon Business,623,Y
+EXP0145,E014,Travel,Swiggy,2138,Y
+EXP0146,E014,Meals,Amazon Business,598,Y
+EXP0147,E011,Software,Amazon Business,13905,Y
+EXP0148,E002,Client Entertainment,Amazon Business,16167,Y
+EXP0149,E018,Meals,Taj Hotels,1659,Y
+EXP0150,E009,Meals,Marriott,2569,Y
+EXP0151,E007,Travel,Uber,10324,N
+EXP0152,E017,Client Entertainment,Swiggy,7632,Y
+EXP0153,E007,Meals,Zomato,651,Y
+EXP0154,E014,Lodging,Starbucks,4884,N
+EXP0155,E016,Travel,Marriott,28113,Y

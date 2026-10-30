@@ -1,0 +1,4 @@
+model,input_usd_per_million_tokens,output_usd_per_million_tokens
+nemotron-small (assumed),0.1,0.3
+nemotron-large (assumed),0.6,1.8
+embedding-model (assumed),0.02,0.0

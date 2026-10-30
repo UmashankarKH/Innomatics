@@ -1,0 +1,41 @@
+claim_id,policy_id,claim_type,amount_claimed,documents_attached,description
+CLM5001,POL1025,Travel,340000,N,Checked-in baggage lost on international flight
+CLM5002,POL1001,Travel,120000,Y,Medical emergency abroad
+CLM5003,POL1005,Travel,900000,Y,Medical emergency abroad
+CLM5004,POL1002,Health,900000,N,Fracture treatment after a fall
+CLM5005,POL1021,Health,900000,Y,Fracture treatment after a fall
+CLM5006,POL1026,Travel,52000,Y,Checked-in baggage lost on international flight
+CLM5007,POL1005,Travel,900000,N,Checked-in baggage lost on international flight
+CLM5008,POL1009,Health,24000,Y,Fracture treatment after a fall
+CLM5009,POL1026,Health,24000,Y,Fracture treatment after a fall
+CLM5010,POL1006,Motor,900000,N,"Collision at a signal, front damage"
+CLM5011,POL1024,Motor,120000,Y,Rear bumper damage in a parking lot
+CLM5012,POL1029,Motor,9000,Y,Rear bumper damage in a parking lot
+CLM5013,POL1011,Motor,340000,Y,Rear bumper damage in a parking lot
+CLM5014,POL1004,Health,4000,Y,Fracture treatment after a fall
+CLM5015,POL1023,Health,38000,Y,"Hospitalised for appendix surgery, bills attached"
+CLM5016,POL1023,Health,9000,Y,Fracture treatment after a fall
+CLM5017,POL1002,Health,38000,Y,"Hospitalised for appendix surgery, bills attached"
+CLM5018,POL1024,Travel,650000,Y,Checked-in baggage lost on international flight
+CLM5019,POL1026,Home,900000,Y,Short circuit damaged kitchen appliances
+CLM5020,POL1013,Motor,120000,Y,Windshield cracked by a stone on highway
+CLM5021,POL1005,Motor,120000,Y,Rear bumper damage in a parking lot
+CLM5022,POL1029,Home,4000,Y,Water damage after pipe burst
+CLM5023,POL1011,Health,24000,Y,Dental root canal treatment
+CLM5024,POL1002,Travel,15000,Y,Medical emergency abroad
+CLM5025,POL1024,Home,120000,Y,Short circuit damaged kitchen appliances
+CLM5026,POL1028,Health,120000,Y,"Hospitalised for appendix surgery, bills attached"
+CLM5027,POL1006,Health,52000,Y,"Hospitalised for appendix surgery, bills attached"
+CLM5028,POL1028,Travel,4000,Y,Checked-in baggage lost on international flight
+CLM5029,POL1001,Travel,15000,Y,"Flight cancelled, hotel rebooking cost"
+CLM5030,POL1027,Health,900000,Y,Fracture treatment after a fall
+CLM5031,POL1022,Travel,38000,Y,Medical emergency abroad
+CLM5032,POL1007,Home,76000,Y,Water damage after pipe burst
+CLM5033,POL1017,Travel,38000,N,"Flight cancelled, hotel rebooking cost"
+CLM5034,POL1029,Health,4000,Y,Fracture treatment after a fall
+CLM5035,POL1023,Health,900000,Y,Dental root canal treatment
+CLM5036,POL1021,Home,340000,Y,Short circuit damaged kitchen appliances
+CLM5037,POL1016,Motor,15000,Y,"Collision at a signal, front damage"
+CLM5038,POL1003,Travel,9000,Y,"Flight cancelled, hotel rebooking cost"
+CLM5039,POL1004,Health,650000,Y,Dental root canal treatment
+CLM5040,POL1027,Travel,15000,Y,Medical emergency abroad

@@ -1,0 +1,535 @@
+request_id,prompt_text
+REQA0001,What documents are needed for admission?
+REQA0002,Is hostel available for first year students?
+REQA0003,Is hostel available for first year students?
+REQA0004,Explain the fee structure and instalment options
+REQA0005,Compare the two specialisations offered in data science
+REQA0006,Is hostel available for first year students?
+REQA0007,Is hostel available for first year students?
+REQA0008,Explain the fee structure and instalment options
+REQA0009,Compare the two specialisations offered in data science
+REQA0010,Compare the two specialisations offered in data science
+REQA0011,What is the last date to apply for the MBA programme?
+REQA0012,What is the last date to apply for the MBA programme?
+REQA0013,Compare the two specialisations offered in data science
+REQA0014,What is the last date to apply for the MBA programme?
+REQA0015,Compare the two specialisations offered in data science
+REQA0016,What is the last date to apply for the MBA programme?
+REQA0017,Is hostel available for first year students?
+REQA0018,Explain the fee structure and instalment options
+REQA0019,What is the last date to apply for the MBA programme?
+REQA0020,How do scholarships work for merit students?
+REQA0021,What is the last date to apply for the MBA programme?
+REQA0022,Explain the fee structure and instalment options
+REQA0023,Explain the fee structure and instalment options
+REQA0024,What is the last date to apply for the MBA programme?
+REQA0025,What documents are needed for admission?
+REQA0026,How do scholarships work for merit students?
+REQA0027,What documents are needed for admission?
+REQA0028,Is hostel available for first year students?
+REQA0029,How do scholarships work for merit students?
+REQA0030,Is hostel available for first year students?
+REQA0031,What is the last date to apply for the MBA programme?
+REQA0032,How do scholarships work for merit students?
+REQA0033,How do scholarships work for merit students?
+REQA0034,What documents are needed for admission?
+REQA0035,What documents are needed for admission?
+REQA0036,Compare the two specialisations offered in data science
+REQA0037,How do scholarships work for merit students?
+REQA0038,What documents are needed for admission?
+REQA0039,What documents are needed for admission?
+REQA0040,What documents are needed for admission?
+REQA0041,Is hostel available for first year students?
+REQA0042,What documents are needed for admission?
+REQA0043,Compare the two specialisations offered in data science
+REQA0044,How do scholarships work for merit students?
+REQA0045,Is hostel available for first year students?
+REQA0046,How do scholarships work for merit students?
+REQA0047,How do scholarships work for merit students?
+REQA0048,What documents are needed for admission?
+REQA0049,What documents are needed for admission?
+REQA0050,Compare the two specialisations offered in data science
+REQA0051,Is hostel available for first year students?
+REQA0052,Explain the fee structure and instalment options
+REQA0053,How do scholarships work for merit students?
+REQA0054,What is the last date to apply for the MBA programme?
+REQA0055,Explain the fee structure and instalment options
+REQA0056,Is hostel available for first year students?
+REQA0057,Explain the fee structure and instalment options
+REQA0058,Explain the fee structure and instalment options
+REQA0059,How do scholarships work for merit students?
+REQA0060,Compare the two specialisations offered in data science
+REQA0061,Is hostel available for first year students?
+REQA0062,What is the last date to apply for the MBA programme?
+REQA0063,What is the last date to apply for the MBA programme?
+REQA0064,How do scholarships work for merit students?
+REQA0065,Explain the fee structure and instalment options
+REQA0066,Compare the two specialisations offered in data science
+REQA0067,What documents are needed for admission?
+REQA0068,What documents are needed for admission?
+REQA0069,What is the last date to apply for the MBA programme?
+REQA0070,Compare the two specialisations offered in data science
+REQA0071,Is hostel available for first year students?
+REQA0072,Explain the fee structure and instalment options
+REQA0073,What documents are needed for admission?
+REQA0074,What documents are needed for admission?
+REQA0075,Compare the two specialisations offered in data science
+REQA0076,Is hostel available for first year students?
+REQA0077,What is the last date to apply for the MBA programme?
+REQA0078,Compare the two specialisations offered in data science
+REQA0079,Is hostel available for first year students?
+REQA0080,What is the last date to apply for the MBA programme?
+REQA0081,What documents are needed for admission?
+REQA0082,What documents are needed for admission?
+REQA0083,Is hostel available for first year students?
+REQA0084,Is hostel available for first year students?
+REQA0085,What documents are needed for admission?
+REQA0086,Is hostel available for first year students?
+REQA0087,Compare the two specialisations offered in data science
+REQA0088,How do scholarships work for merit students?
+REQA0089,How do scholarships work for merit students?
+REQA0090,What documents are needed for admission?
+REQA0091,What is the last date to apply for the MBA programme?
+REQA0092,What documents are needed for admission?
+REQA0093,What documents are needed for admission?
+REQA0094,Compare the two specialisations offered in data science
+REQA0095,Compare the two specialisations offered in data science
+REQA0096,What is the last date to apply for the MBA programme?
+REQA0097,Compare the two specialisations offered in data science
+REQA0098,How do scholarships work for merit students?
+REQA0099,Explain the fee structure and instalment options
+REQA0100,Compare the two specialisations offered in data science
+REQA0101,Explain the fee structure and instalment options
+REQA0102,What is the last date to apply for the MBA programme?
+REQA0103,Is hostel available for first year students?
+REQA0104,What is the last date to apply for the MBA programme?
+REQA0105,Compare the two specialisations offered in data science
+REQA0106,What documents are needed for admission?
+REQA0107,What documents are needed for admission?
+REQA0108,Compare the two specialisations offered in data science
+REQA0109,Compare the two specialisations offered in data science
+REQA0110,What documents are needed for admission?
+REQA0111,Explain the fee structure and instalment options
+REQA0112,What is the last date to apply for the MBA programme?
+REQA0113,Is hostel available for first year students?
+REQA0114,How do scholarships work for merit students?
+REQA0115,Compare the two specialisations offered in data science
+REQA0116,What is the last date to apply for the MBA programme?
+REQA0117,What is the last date to apply for the MBA programme?
+REQA0118,What is the last date to apply for the MBA programme?
+REQA0119,Is hostel available for first year students?
+REQA0120,Is hostel available for first year students?
+REQA0121,What documents are needed for admission?
+REQA0122,Is hostel available for first year students?
+REQA0123,What documents are needed for admission?
+REQA0124,Explain the fee structure and instalment options
+REQA0125,Compare the two specialisations offered in data science
+REQA0126,Is hostel available for first year students?
+REQA0127,Explain the fee structure and instalment options
+REQA0128,How do scholarships work for merit students?
+REQA0129,What documents are needed for admission?
+REQA0130,Explain the fee structure and instalment options
+REQA0131,Explain the fee structure and instalment options
+REQA0132,What is the last date to apply for the MBA programme?
+REQA0133,Is hostel available for first year students?
+REQA0134,Explain the fee structure and instalment options
+REQA0135,Compare the two specialisations offered in data science
+REQA0136,How do scholarships work for merit students?
+REQA0137,How do scholarships work for merit students?
+REQA0138,Explain the fee structure and instalment options
+REQA0139,What is the last date to apply for the MBA programme?
+REQA0140,What is the last date to apply for the MBA programme?
+REQA0141,What is the last date to apply for the MBA programme?
+REQA0142,What is the last date to apply for the MBA programme?
+REQA0143,Compare the two specialisations offered in data science
+REQA0144,Explain the fee structure and instalment options
+REQA0145,How do scholarships work for merit students?
+REQA0146,Compare the two specialisations offered in data science
+REQA0147,Is hostel available for first year students?
+REQA0148,What is the last date to apply for the MBA programme?
+REQA0149,Is hostel available for first year students?
+REQA0150,What is the last date to apply for the MBA programme?
+REQA0151,How do scholarships work for merit students?
+REQA0152,Compare the two specialisations offered in data science
+REQA0153,Is hostel available for first year students?
+REQA0154,What is the last date to apply for the MBA programme?
+REQA0155,What is the last date to apply for the MBA programme?
+REQA0156,What documents are needed for admission?
+REQA0157,Explain the fee structure and instalment options
+REQA0158,Is hostel available for first year students?
+REQA0159,Explain the fee structure and instalment options
+REQA0160,Compare the two specialisations offered in data science
+REQA0161,What is the last date to apply for the MBA programme?
+REQA0162,What is the last date to apply for the MBA programme?
+REQA0163,Compare the two specialisations offered in data science
+REQA0164,How do scholarships work for merit students?
+REQA0165,What is the last date to apply for the MBA programme?
+REQA0166,How do scholarships work for merit students?
+REQA0167,Is hostel available for first year students?
+REQA0168,What documents are needed for admission?
+REQA0169,Explain the fee structure and instalment options
+REQA0170,Is hostel available for first year students?
+REQA0171,What documents are needed for admission?
+REQA0172,Explain the fee structure and instalment options
+REQA0173,Is hostel available for first year students?
+REQA0174,What documents are needed for admission?
+REQA0175,Compare the two specialisations offered in data science
+REQA0176,What documents are needed for admission?
+REQA0177,What is the last date to apply for the MBA programme?
+REQA0178,What is the last date to apply for the MBA programme?
+REQA0179,What documents are needed for admission?
+REQA0180,Explain the fee structure and instalment options
+REQA0181,How do scholarships work for merit students?
+REQA0182,Explain the fee structure and instalment options
+REQA0183,How do scholarships work for merit students?
+REQA0184,Is hostel available for first year students?
+REQA0185,What is the last date to apply for the MBA programme?
+REQA0186,Is hostel available for first year students?
+REQA0187,Compare the two specialisations offered in data science
+REQA0188,How do scholarships work for merit students?
+REQA0189,How do scholarships work for merit students?
+REQA0190,Compare the two specialisations offered in data science
+REQA0191,How do scholarships work for merit students?
+REQA0192,What is the last date to apply for the MBA programme?
+REQA0193,What is the last date to apply for the MBA programme?
+REQA0194,What documents are needed for admission?
+REQA0195,Explain the fee structure and instalment options
+REQA0196,What is the last date to apply for the MBA programme?
+REQA0197,Is hostel available for first year students?
+REQA0198,How do scholarships work for merit students?
+REQA0199,Explain the fee structure and instalment options
+REQA0200,Is hostel available for first year students?
+REQA0201,Compare the two specialisations offered in data science
+REQA0202,Compare the two specialisations offered in data science
+REQA0203,Explain the fee structure and instalment options
+REQA0204,Explain the fee structure and instalment options
+REQA0205,What documents are needed for admission?
+REQA0206,What documents are needed for admission?
+REQA0207,What documents are needed for admission?
+REQA0208,What is the last date to apply for the MBA programme?
+REQA0209,What documents are needed for admission?
+REQA0210,Explain the fee structure and instalment options
+REQA0211,What documents are needed for admission?
+REQA0212,What is the last date to apply for the MBA programme?
+REQA0213,Explain the fee structure and instalment options
+REQA0214,Is hostel available for first year students?
+REQA0215,What is the last date to apply for the MBA programme?
+REQA0216,What is the last date to apply for the MBA programme?
+REQA0217,How do scholarships work for merit students?
+REQA0218,What documents are needed for admission?
+REQA0219,What documents are needed for admission?
+REQA0220,What documents are needed for admission?
+REQA0221,What is the last date to apply for the MBA programme?
+REQA0222,Explain the fee structure and instalment options
+REQA0223,How do scholarships work for merit students?
+REQA0224,How do scholarships work for merit students?
+REQA0225,Compare the two specialisations offered in data science
+REQA0226,How do scholarships work for merit students?
+REQA0227,Compare the two specialisations offered in data science
+REQA0228,Is hostel available for first year students?
+REQA0229,Compare the two specialisations offered in data science
+REQA0230,What documents are needed for admission?
+REQA0231,Compare the two specialisations offered in data science
+REQA0232,Explain the fee structure and instalment options
+REQA0233,Compare the two specialisations offered in data science
+REQA0234,What is the last date to apply for the MBA programme?
+REQA0235,Is hostel available for first year students?
+REQA0236,Explain the fee structure and instalment options
+REQA0237,What is the last date to apply for the MBA programme?
+REQA0238,What is the last date to apply for the MBA programme?
+REQA0239,Is hostel available for first year students?
+REQA0240,How do scholarships work for merit students?
+REQA0241,Is hostel available for first year students?
+REQA0242,Is hostel available for first year students?
+REQA0243,Explain the fee structure and instalment options
+REQA0244,Explain the fee structure and instalment options
+REQA0245,Explain the fee structure and instalment options
+REQA0246,Explain the fee structure and instalment options
+REQA0247,How do scholarships work for merit students?
+REQA0248,What is the last date to apply for the MBA programme?
+REQA0249,Compare the two specialisations offered in data science
+REQA0250,Compare the two specialisations offered in data science
+REQA0251,What documents are needed for admission?
+REQA0252,Explain the fee structure and instalment options
+REQA0253,What documents are needed for admission?
+REQA0254,Explain the fee structure and instalment options
+REQA0255,Explain the fee structure and instalment options
+REQA0256,Is hostel available for first year students?
+REQA0257,Is hostel available for first year students?
+REQA0258,What is the last date to apply for the MBA programme?
+REQA0259,Explain the fee structure and instalment options
+REQA0260,Compare the two specialisations offered in data science
+REQA0261,What documents are needed for admission?
+REQA0262,Compare the two specialisations offered in data science
+REQA0263,Explain the fee structure and instalment options
+REQA0264,What is the last date to apply for the MBA programme?
+REQA0265,Is hostel available for first year students?
+REQA0266,What is the last date to apply for the MBA programme?
+REQA0267,What documents are needed for admission?
+REQA0268,What documents are needed for admission?
+REQA0269,Is hostel available for first year students?
+REQA0270,Compare the two specialisations offered in data science
+REQA0271,Is hostel available for first year students?
+REQA0272,Is hostel available for first year students?
+REQA0273,How do scholarships work for merit students?
+REQA0274,What is the last date to apply for the MBA programme?
+REQA0275,Explain the fee structure and instalment options
+REQA0276,Explain the fee structure and instalment options
+REQA0277,How do scholarships work for merit students?
+REQA0278,Compare the two specialisations offered in data science
+REQA0279,Is hostel available for first year students?
+REQA0280,Is hostel available for first year students?
+REQA0281,Compare the two specialisations offered in data science
+REQA0282,How do scholarships work for merit students?
+REQA0283,What is the last date to apply for the MBA programme?
+REQA0284,How do scholarships work for merit students?
+REQA0285,What documents are needed for admission?
+REQA0286,Explain the fee structure and instalment options
+REQA0287,Explain the fee structure and instalment options
+REQA0288,What documents are needed for admission?
+REQA0289,What documents are needed for admission?
+REQA0290,How do scholarships work for merit students?
+REQA0291,How do scholarships work for merit students?
+REQA0292,Is hostel available for first year students?
+REQA0293,What documents are needed for admission?
+REQA0294,Explain the fee structure and instalment options
+REQA0295,Is hostel available for first year students?
+REQA0296,Explain the fee structure and instalment options
+REQA0297,How do scholarships work for merit students?
+REQA0298,How do scholarships work for merit students?
+REQA0299,How do scholarships work for merit students?
+REQA0300,How do scholarships work for merit students?
+REQA0301,Explain the fee structure and instalment options
+REQA0302,Explain the fee structure and instalment options
+REQA0303,Explain the fee structure and instalment options
+REQA0304,Explain the fee structure and instalment options
+REQA0305,How do scholarships work for merit students?
+REQA0306,What is the last date to apply for the MBA programme?
+REQA0307,Compare the two specialisations offered in data science
+REQA0308,Is hostel available for first year students?
+REQA0309,Is hostel available for first year students?
+REQA0310,Compare the two specialisations offered in data science
+REQA0311,Compare the two specialisations offered in data science
+REQA0312,Compare the two specialisations offered in data science
+REQA0313,Explain the fee structure and instalment options
+REQA0314,What documents are needed for admission?
+REQA0315,How do scholarships work for merit students?
+REQA0316,How do scholarships work for merit students?
+REQA0317,What documents are needed for admission?
+REQA0318,What is the last date to apply for the MBA programme?
+REQA0319,Is hostel available for first year students?
+REQA0320,Compare the two specialisations offered in data science
+REQA0321,What documents are needed for admission?
+REQA0322,What is the last date to apply for the MBA programme?
+REQA0323,How do scholarships work for merit students?
+REQA0324,What documents are needed for admission?
+REQA0325,Is hostel available for first year students?
+REQA0326,Is hostel available for first year students?
+REQA0327,How do scholarships work for merit students?
+REQA0328,Is hostel available for first year students?
+REQA0329,How do scholarships work for merit students?
+REQA0330,Is hostel available for first year students?
+REQA0331,What documents are needed for admission?
+REQA0332,Explain the fee structure and instalment options
+REQA0333,Compare the two specialisations offered in data science
+REQA0334,How do scholarships work for merit students?
+REQA0335,What documents are needed for admission?
+REQA0336,Is hostel available for first year students?
+REQA0337,What is the last date to apply for the MBA programme?
+REQA0338,Is hostel available for first year students?
+REQA0339,What documents are needed for admission?
+REQA0340,What documents are needed for admission?
+REQA0341,How do scholarships work for merit students?
+REQA0342,What documents are needed for admission?
+REQA0343,What documents are needed for admission?
+REQA0344,Explain the fee structure and instalment options
+REQA0345,Explain the fee structure and instalment options
+REQA0346,What documents are needed for admission?
+REQA0347,What documents are needed for admission?
+REQA0348,Compare the two specialisations offered in data science
+REQA0349,What is the last date to apply for the MBA programme?
+REQA0350,How do scholarships work for merit students?
+REQA0351,What documents are needed for admission?
+REQA0352,Compare the two specialisations offered in data science
+REQA0353,Explain the fee structure and instalment options
+REQA0354,Compare the two specialisations offered in data science
+REQA0355,What is the last date to apply for the MBA programme?
+REQA0356,What documents are needed for admission?
+REQA0357,What documents are needed for admission?
+REQA0358,What is the last date to apply for the MBA programme?
+REQA0359,What is the last date to apply for the MBA programme?
+REQA0360,What is the last date to apply for the MBA programme?
+REQA0361,Compare the two specialisations offered in data science
+REQA0362,Is hostel available for first year students?
+REQA0363,Compare the two specialisations offered in data science
+REQA0364,How do scholarships work for merit students?
+REQA0365,Explain the fee structure and instalment options
+REQA0366,Explain the fee structure and instalment options
+REQA0367,Explain the fee structure and instalment options
+REQA0368,How do scholarships work for merit students?
+REQA0369,What documents are needed for admission?
+REQA0370,Is hostel available for first year students?
+REQA0371,Explain the fee structure and instalment options
+REQA0372,How do scholarships work for merit students?
+REQA0373,Is hostel available for first year students?
+REQA0374,Explain the fee structure and instalment options
+REQA0375,What is the last date to apply for the MBA programme?
+REQA0376,Is hostel available for first year students?
+REQA0377,Is hostel available for first year students?
+REQA0378,How do scholarships work for merit students?
+REQA0379,How do scholarships work for merit students?
+REQA0380,What is the last date to apply for the MBA programme?
+REQA0381,What is the last date to apply for the MBA programme?
+REQA0382,What is the last date to apply for the MBA programme?
+REQA0383,What documents are needed for admission?
+REQA0384,What is the last date to apply for the MBA programme?
+REQA0385,Explain the fee structure and instalment options
+REQA0386,Compare the two specialisations offered in data science
+REQA0387,Explain the fee structure and instalment options
+REQA0388,What is the last date to apply for the MBA programme?
+REQA0389,What documents are needed for admission?
+REQA0390,Compare the two specialisations offered in data science
+REQA0391,How do scholarships work for merit students?
+REQA0392,Explain the fee structure and instalment options
+REQA0393,What documents are needed for admission?
+REQA0394,Explain the fee structure and instalment options
+REQA0395,Explain the fee structure and instalment options
+REQA0396,What documents are needed for admission?
+REQA0397,Compare the two specialisations offered in data science
+REQA0398,How do scholarships work for merit students?
+REQA0399,Is hostel available for first year students?
+REQA0400,Is hostel available for first year students?
+REQA0401,How do scholarships work for merit students?
+REQA0402,How do scholarships work for merit students?
+REQA0403,What is the last date to apply for the MBA programme?
+REQA0404,How do scholarships work for merit students?
+REQA0405,What is the last date to apply for the MBA programme?
+REQA0406,Is hostel available for first year students?
+REQA0407,What documents are needed for admission?
+REQA0408,Explain the fee structure and instalment options
+REQA0409,What is the last date to apply for the MBA programme?
+REQA0410,What is the last date to apply for the MBA programme?
+REQA0411,How do scholarships work for merit students?
+REQA0412,Explain the fee structure and instalment options
+REQA0413,Explain the fee structure and instalment options
+REQA0414,Is hostel available for first year students?
+REQA0415,How do scholarships work for merit students?
+REQA0416,How do scholarships work for merit students?
+REQA0417,What documents are needed for admission?
+REQA0418,What documents are needed for admission?
+REQA0419,Is hostel available for first year students?
+REQA0420,Is hostel available for first year students?
+REQA0421,What documents are needed for admission?
+REQA0422,What is the last date to apply for the MBA programme?
+REQA0423,How do scholarships work for merit students?
+REQA0424,What documents are needed for admission?
+REQA0425,Compare the two specialisations offered in data science
+REQA0426,What documents are needed for admission?
+REQA0427,What documents are needed for admission?
+REQA0428,Explain the fee structure and instalment options
+REQA0429,Explain the fee structure and instalment options
+REQA0430,Compare the two specialisations offered in data science
+REQA0431,Explain the fee structure and instalment options
+REQA0432,Explain the fee structure and instalment options
+REQA0433,What documents are needed for admission?
+REQA0434,What is the last date to apply for the MBA programme?
+REQA0435,What documents are needed for admission?
+REQA0436,Compare the two specialisations offered in data science
+REQA0437,What is the last date to apply for the MBA programme?
+REQA0438,What documents are needed for admission?
+REQA0439,Explain the fee structure and instalment options
+REQA0440,What is the last date to apply for the MBA programme?
+REQA0441,What is the last date to apply for the MBA programme?
+REQA0442,Compare the two specialisations offered in data science
+REQA0443,Is hostel available for first year students?
+REQA0444,Is hostel available for first year students?
+REQA0445,What documents are needed for admission?
+REQA0446,Explain the fee structure and instalment options
+REQA0447,Is hostel available for first year students?
+REQA0448,What is the last date to apply for the MBA programme?
+REQA0449,Is hostel available for first year students?
+REQA0450,Explain the fee structure and instalment options
+REQA0451,Explain the fee structure and instalment options
+REQA0452,What documents are needed for admission?
+REQA0453,How do scholarships work for merit students?
+REQA0454,What documents are needed for admission?
+REQA0455,What is the last date to apply for the MBA programme?
+REQA0456,Is hostel available for first year students?
+REQA0457,What is the last date to apply for the MBA programme?
+REQA0458,Is hostel available for first year students?
+REQA0459,Compare the two specialisations offered in data science
+REQA0460,Is hostel available for first year students?
+REQA0461,What is the last date to apply for the MBA programme?
+REQA0462,Compare the two specialisations offered in data science
+REQA0463,Compare the two specialisations offered in data science
+REQA0464,Explain the fee structure and instalment options
+REQA0465,Explain the fee structure and instalment options
+REQA0466,How do scholarships work for merit students?
+REQA0467,Compare the two specialisations offered in data science
+REQA0468,Is hostel available for first year students?
+REQA0469,What documents are needed for admission?
+REQA0470,Compare the two specialisations offered in data science
+REQA0471,Explain the fee structure and instalment options
+REQA0472,Compare the two specialisations offered in data science
+REQA0473,Is hostel available for first year students?
+REQA0474,Explain the fee structure and instalment options
+REQA0475,What is the last date to apply for the MBA programme?
+REQA0476,What documents are needed for admission?
+REQA0477,How do scholarships work for merit students?
+REQA0478,What is the last date to apply for the MBA programme?
+REQA0479,Compare the two specialisations offered in data science
+REQA0480,What documents are needed for admission?
+REQA0481,How do scholarships work for merit students?
+REQA0482,Explain the fee structure and instalment options
+REQA0483,How do scholarships work for merit students?
+REQA0484,Compare the two specialisations offered in data science
+REQA0485,How do scholarships work for merit students?
+REQA0486,Explain the fee structure and instalment options
+REQA0487,How do scholarships work for merit students?
+REQA0488,What is the last date to apply for the MBA programme?
+REQA0489,Compare the two specialisations offered in data science
+REQA0490,Is hostel available for first year students?
+REQA0491,How do scholarships work for merit students?
+REQA0492,Explain the fee structure and instalment options
+REQA0493,Is hostel available for first year students?
+REQA0494,How do scholarships work for merit students?
+REQA0495,Explain the fee structure and instalment options
+REQA0496,Compare the two specialisations offered in data science
+REQA0497,What documents are needed for admission?
+REQA0498,What documents are needed for admission?
+REQA0499,How do scholarships work for merit students?
+REQA0500,How do scholarships work for merit students?
+REQA0501,What documents are needed for admission?
+REQA0502,What documents are needed for admission?
+REQA0503,Is hostel available for first year students?
+REQA0504,What is the last date to apply for the MBA programme?
+REQA0505,Compare the two specialisations offered in data science
+REQA0506,Is hostel available for first year students?
+REQA0507,Compare the two specialisations offered in data science
+REQA0508,Is hostel available for first year students?
+REQA0509,Is hostel available for first year students?
+REQA0510,Is hostel available for first year students?
+REQA0511,What is the last date to apply for the MBA programme?
+REQA0512,Explain the fee structure and instalment options
+REQA0513,Explain the fee structure and instalment options
+REQA0514,Explain the fee structure and instalment options
+REQA0515,Explain the fee structure and instalment options
+REQA0516,Compare the two specialisations offered in data science
+REQA0517,Explain the fee structure and instalment options
+REQA0518,How do scholarships work for merit students?
+REQA0519,What is the last date to apply for the MBA programme?
+REQA0520,What documents are needed for admission?
+REQA0521,How do scholarships work for merit students?
+REQA0522,Explain the fee structure and instalment options
+REQA0523,Explain the fee structure and instalment options
+REQA0524,How do scholarships work for merit students?
+REQA0525,Is hostel available for first year students?
+REQA0526,How do scholarships work for merit students?
+REQA0527,Is hostel available for first year students?
+REQA0528,What documents are needed for admission?
+REQA0529,What documents are needed for admission?
+REQA0530,Explain the fee structure and instalment options
+REQA0531,What is the last date to apply for the MBA programme?
+REQA0532,Is hostel available for first year students?
+REQA0533,How do scholarships work for merit students?
+REQA0534,Explain the fee structure and instalment options

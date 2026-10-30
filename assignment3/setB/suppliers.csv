@@ -1,0 +1,6 @@
+supplier_id,supplier_name,reliability_score,lead_time_days,min_order_qty
+SUP1,Apex Components,0.95,5,100
+SUP2,Zenith Parts,0.88,9,200
+SUP3,Omni Traders,0.8,14,50
+SUP4,Delta Supplies,0.92,7,150
+SUP5,Nova Industrial,0.85,11,100

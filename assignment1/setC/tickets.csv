@@ -1,0 +1,41 @@
+ticket_id,asset_id,description,users_impacted
+TKT4001,AST317,Laptop battery drains within 30 minutes,1
+TKT4002,AST320,Antivirus flagged unknown file on my laptop,2
+TKT4003,AST326,"Received a suspicious email asking for my login, I clicked the link",2
+TKT4004,AST315,VPN keeps disconnecting every few minutes,60
+TKT4005,AST316,"Need password reset, forgot it over the weekend",1
+TKT4006,AST308,Cannot connect to company VPN from home,60
+TKT4007,AST304,"Received a suspicious email asking for my login, I clicked the link",1
+TKT4008,AST320,Entire floor has no internet connectivity,1
+TKT4009,AST330,Cannot connect to company VPN from home,1
+TKT4010,AST326,Antivirus flagged unknown file on my laptop,1
+TKT4011,AST308,Wi-Fi extremely slow in the conference block,3
+TKT4012,AST303,Antivirus flagged unknown file on my laptop,1
+TKT4013,AST325,Excel crashes when opening large files,2
+TKT4014,AST314,VPN keeps disconnecting every few minutes,60
+TKT4015,AST304,Laptop battery drains within 30 minutes,1
+TKT4016,AST320,Entire floor has no internet connectivity,3
+TKT4017,AST315,Outlook not syncing new emails since morning,25
+TKT4018,AST309,Entire floor has no internet connectivity,60
+TKT4019,AST326,VPN keeps disconnecting every few minutes,1
+TKT4020,AST308,Excel crashes when opening large files,1
+TKT4021,AST322,Laptop battery drains within 30 minutes,2
+TKT4022,AST304,VPN keeps disconnecting every few minutes,1
+TKT4023,AST311,Wi-Fi extremely slow in the conference block,60
+TKT4024,AST315,Cannot connect to company VPN from home,12
+TKT4025,AST322,Entire floor has no internet connectivity,3
+TKT4026,AST313,Excel crashes when opening large files,1
+TKT4027,AST310,Wi-Fi extremely slow in the conference block,1
+TKT4028,AST322,Laptop battery drains within 30 minutes,1
+TKT4029,AST318,Entire floor has no internet connectivity,3
+TKT4030,AST305,Entire floor has no internet connectivity,60
+TKT4031,AST301,"Mailbox full, cannot send attachments",3
+TKT4032,AST304,"Mailbox full, cannot send attachments",3
+TKT4033,AST324,I am locked out of my account after too many attempts,1
+TKT4034,AST301,Entire floor has no internet connectivity,60
+TKT4035,AST310,Laptop battery drains within 30 minutes,1
+TKT4036,AST304,Keyboard keys not responding,1
+TKT4037,AST327,"Need password reset, forgot it over the weekend",1
+TKT4038,AST305,Wi-Fi extremely slow in the conference block,2
+TKT4039,AST314,Laptop screen flickering and then goes black,1
+TKT4040,AST310,Wi-Fi extremely slow in the conference block,2

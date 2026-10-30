@@ -1,0 +1,41 @@
+shipment_id,origin,destination,carrier,delay_hours,cargo_type,perishable,value_inr,exception_note
+SHP6001,Bengaluru,Kochi,SwiftHaul,8,Fresh Produce,Y,300000,Truck breakdown on highway
+SHP6002,Hyderabad,Kochi,BlueDart-X,4,Pharma,Y,120000,Truck breakdown on highway
+SHP6003,Chennai,Delhi,RoadRunner,20,Furniture,N,40000,"Heavy rain, road blocked"
+SHP6004,Pune,Mumbai,RoadRunner,55,Electronics,N,1500000,Driver shortage at hub
+SHP6005,Kochi,Bengaluru,CargoKing,30,Auto Parts,N,120000,Driver shortage at hub
+SHP6006,Hyderabad,Kochi,EcoMove,0,Pharma,Y,40000,No exception reported
+SHP6007,Chennai,Kochi,SwiftHaul,12,Auto Parts,N,520000,Driver shortage at hub
+SHP6008,Chennai,Hyderabad,EcoMove,40,Electronics,N,40000,Truck breakdown on highway
+SHP6009,Kolkata,Kochi,EcoMove,30,Furniture,N,120000,"Heavy rain, road blocked"
+SHP6010,Hyderabad,Chennai,EcoMove,4,Pharma,Y,800000,Customs documentation pending
+SHP6011,Bengaluru,Chennai,CargoKing,4,Electronics,N,800000,Customs documentation pending
+SHP6012,Chennai,Bengaluru,SwiftHaul,2,Pharma,Y,120000,No exception reported
+SHP6013,Mumbai,Bengaluru,BlueDart-X,30,Auto Parts,N,800000,No exception reported
+SHP6014,Kochi,Delhi,EcoMove,30,Auto Parts,N,120000,No exception reported
+SHP6015,Kochi,Hyderabad,BlueDart-X,0,Furniture,N,520000,No exception reported
+SHP6016,Bengaluru,Pune,BlueDart-X,12,Pharma,Y,120000,Customs documentation pending
+SHP6017,Kolkata,Bengaluru,BlueDart-X,8,Auto Parts,N,120000,Warehouse congestion at destination hub
+SHP6018,Chennai,Kochi,EcoMove,12,Pharma,Y,800000,"Heavy rain, road blocked"
+SHP6019,Chennai,Kochi,BlueDart-X,26,Furniture,N,120000,"Heavy rain, road blocked"
+SHP6020,Kochi,Hyderabad,EcoMove,4,Electronics,N,40000,"Heavy rain, road blocked"
+SHP6021,Mumbai,Kochi,SwiftHaul,8,Auto Parts,N,1500000,Truck breakdown on highway
+SHP6022,Mumbai,Delhi,BlueDart-X,26,Auto Parts,N,1500000,"Heavy rain, road blocked"
+SHP6023,Mumbai,Kolkata,SwiftHaul,30,Pharma,Y,40000,Driver shortage at hub
+SHP6024,Chennai,Mumbai,SwiftHaul,40,Pharma,Y,40000,Customs documentation pending
+SHP6025,Bengaluru,Mumbai,SwiftHaul,26,Auto Parts,N,800000,Customs documentation pending
+SHP6026,Pune,Bengaluru,EcoMove,4,Auto Parts,N,300000,Truck breakdown on highway
+SHP6027,Hyderabad,Mumbai,BlueDart-X,4,Auto Parts,N,300000,Customs documentation pending
+SHP6028,Bengaluru,Hyderabad,RoadRunner,40,Fresh Produce,Y,40000,No exception reported
+SHP6029,Hyderabad,Chennai,SwiftHaul,30,Pharma,Y,300000,No exception reported
+SHP6030,Bengaluru,Delhi,RoadRunner,0,Pharma,Y,520000,No exception reported
+SHP6031,Delhi,Bengaluru,SwiftHaul,40,Fresh Produce,Y,40000,Driver shortage at hub
+SHP6032,Mumbai,Kochi,BlueDart-X,12,Pharma,Y,300000,Driver shortage at hub
+SHP6033,Kolkata,Mumbai,CargoKing,40,Furniture,N,120000,Warehouse congestion at destination hub
+SHP6034,Mumbai,Chennai,EcoMove,20,Electronics,N,40000,Warehouse congestion at destination hub
+SHP6035,Delhi,Chennai,CargoKing,12,Auto Parts,N,120000,"Heavy rain, road blocked"
+SHP6036,Mumbai,Kochi,BlueDart-X,40,Furniture,N,300000,Warehouse congestion at destination hub
+SHP6037,Hyderabad,Chennai,SwiftHaul,0,Garments,N,120000,No exception reported
+SHP6038,Mumbai,Delhi,BlueDart-X,12,Furniture,N,800000,Customs documentation pending
+SHP6039,Hyderabad,Chennai,BlueDart-X,40,Garments,N,120000,Truck breakdown on highway
+SHP6040,Pune,Kochi,EcoMove,55,Pharma,Y,120000,Customs documentation pending

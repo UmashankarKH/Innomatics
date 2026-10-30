@@ -1,0 +1,16 @@
+grade,category,max_amount_inr
+G1,Travel,15000
+G1,Meals,1500
+G1,Lodging,6000
+G1,Software,8000
+G1,Client Entertainment,10000
+G2,Travel,22500
+G2,Meals,2250
+G2,Lodging,9000
+G2,Software,12000
+G2,Client Entertainment,15000
+G3,Travel,30000
+G3,Meals,3000
+G3,Lodging,12000
+G3,Software,16000
+G3,Client Entertainment,20000

@@ -1,0 +1,8 @@
+category,base_priority,assigned_team,sla_hours
+PASSWORD,P4,Service Desk L1,8
+VPN,P3,Network Team,8
+HARDWARE,P3,Hardware Support,24
+EMAIL,P3,Messaging Team,8
+SOFTWARE,P4,Service Desk L1,24
+NETWORK,P2,Network Team,4
+SECURITY,P1,Security Operations,1

@@ -1,0 +1,31 @@
+asset_id,owner,os,warranty_status,department
+AST301,Naveen Menon,Windows 10,Expired,Engineering
+AST302,Bhavana Sharma,Windows 11,Expired,Sales
+AST303,Rahul Gowda,Windows 11,In Warranty,Engineering
+AST304,Rohan Iyer,Windows 11,In Warranty,Finance
+AST305,Meera Shetty,Ubuntu,In Warranty,Sales
+AST306,Shruthi Sharma,macOS,In Warranty,Operations
+AST307,Girish Sharma,Windows 10,In Warranty,HR
+AST308,Vikram Sharma,Windows 10,Expired,Operations
+AST309,Karthik Menon,Ubuntu,Expired,HR
+AST310,Bhavana Iyer,macOS,Expired,Finance
+AST311,Naveen Patil,Ubuntu,In Warranty,Sales
+AST312,Tarun Shetty,Windows 10,In Warranty,Operations
+AST313,Arjun Nair,macOS,In Warranty,Engineering
+AST314,Tarun Nair,Ubuntu,In Warranty,Engineering
+AST315,Bhavana Sharma,Windows 11,Expired,Sales
+AST316,Pooja Rao,macOS,Expired,Operations
+AST317,Imran Kumar,macOS,In Warranty,Engineering
+AST318,Sneha Menon,Windows 11,In Warranty,HR
+AST319,Shruthi Rao,Windows 10,Expired,Finance
+AST320,Revathi Iyer,Windows 10,In Warranty,Finance
+AST321,Manoj Nair,macOS,In Warranty,Sales
+AST322,Rahul Gowda,Windows 11,Expired,Finance
+AST323,Swathi Rao,Ubuntu,In Warranty,Finance
+AST324,Priya Nair,macOS,In Warranty,Sales
+AST325,Bhavana Shetty,Windows 10,In Warranty,HR
+AST326,Karthik Sharma,Windows 11,Expired,Operations
+AST327,Harish Menon,Ubuntu,In Warranty,HR
+AST328,Harish Nair,Windows 11,Expired,Sales
+AST329,Harish Shetty,macOS,In Warranty,HR
+AST330,Girish Reddy,Ubuntu,In Warranty,HR

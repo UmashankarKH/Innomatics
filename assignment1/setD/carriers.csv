@@ -1,0 +1,6 @@
+carrier,reliability_score,cost_per_km_inr
+BlueDart-X,0.95,18
+SwiftHaul,0.91,14
+RoadRunner,0.84,11
+CargoKing,0.88,12
+EcoMove,0.93,16
